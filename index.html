@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="js/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container-fluid">
+    <!--Top row Logo + Name -->
+      <div class="row">
+      <div class="col-xs-12 col-md-12">
+        <img src="images/logo.svg" id="logo_s" alt="My Portfolio" />
+      </div>
+        <div class="col-xs-12 col-md-12">
+          <img src="images/logo.svg" id="logo" alt="My Portfolio" />
+          <div class="title">
+            <h1>RICHARD A. STRUTT</h1>
+            <h3>Front-end Developer</h3>
+          </div>
+        </div>
+      </div>
+      <!--Responsive background (cover) goes here -->
+      <div class="row">
+        <div class="col-xs-12 col-md-12">
+          <div class="spacing"></div>
+          <div class="main_pic"></div>
+        </div>
+      </div>
+      <!--Button goes here-->
+      <div class="wrapper">
+  		<button class="btn btn-main" type="button" data-toggle="collapse" data-target="#show_work">
+        	Show Featured Work
+     	</button>
+      </div>
+      <div class="collapse" id="show_work">
+	      <!-- All three images and links go here-->
+	      <div class="row">
+	        <div class="col-xs-12 col-sm-4">
+	          <div class="center_it">          
+	            <img class="image" src="images/image_1.svg" alt="Lab App, any experiments?" />
+	            <h1>Lab App</h1>
+	            <p><a href="https://github.com/richardstrutt/24app/">https://github.com/richardstrutt/lab_app/</a></p>
+	          </div>
+	        </div>
+	        <div class="scroll_to"></div>
+	        <div class="col-xs-12 col-sm-4">
+	          <div class="center_it"> 
+	            <img class="image" src="images/image_2.svg" alt="Rocket App, play now" />
+	            <h1>Rocket App</h1>
+	            <p><a href="https://github.com/richardstrutt/24app/">https://github.com/richardstrutt/lab_app/</a></p>
+	          </div>
+	        </div>
+	        <div class="col-xs-12 col-sm-4">
+	          <div class="center_it">  
+	            <img class="image" src="images/image_3.svg" alt="Smart TV is the way" />
+	            <h1>Smart TV</h1>
+	            <p><a href="https://github.com/richardstrutt/24app/">https://github.com/richardstrutt/smart_tv/</a></p>
+	          </div>
+	        </div>
+	      </div>
+	    </div>
+      </div>
+    <script src="js/jquery.js"></script>
+    <script src="js/down.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

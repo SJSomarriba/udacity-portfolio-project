@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="512" height="400" viewBox="0 0 512 400">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-6 {
+        fill: #cecece;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 36px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: "BrandonGrotesque-Light";
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-4, .cls-6 {
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path d="M0.000,512.000 L0.000,0.000 L512.000,0.000 L512.000,512.000 L0.000,512.000 Z" class="cls-1"/>
+  <g>
+    <text transform="translate(197 335) scale(0.9 0.9)" class="cls-2"><tspan class="cls-3">LAB APP </tspan></text>
+    <path d="M351.627,281.511 C351.104,281.682 349.753,281.997 349.753,281.997 L174.774,281.685 L170.587,281.511 C170.587,281.511 151.816,280.381 156.887,257.043 C161.392,236.309 214.273,155.087 226.018,137.219 C225.622,135.648 225.388,134.013 225.388,132.319 L225.388,95.000 C225.388,83.954 234.343,75.000 245.388,75.000 L274.869,75.000 C285.914,75.000 294.869,83.954 294.869,95.000 L294.869,132.319 C294.869,133.445 294.753,134.541 294.574,135.615 L364.349,256.064 C364.349,256.064 372.732,274.592 351.627,281.511 Z" class="cls-4"/>
+    <path d="M320.994,253.016 L201.020,252.822 L261.175,148.991 L320.994,253.016 Z" class="cls-5"/>
+    <circle cx="227" cy="39" r="8" class="cls-6"/>
+    <circle cx="296" cy="28" r="8" class="cls-6"/>
+    <circle cx="272" cy="49" r="8" class="cls-6"/>
+  </g>
+</svg>

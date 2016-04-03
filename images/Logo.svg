@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1300" height="350" viewBox="0 0 1300 350">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #969696;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 66.667px;
+      }
+
+      .cls-4 {
+        font-family: "BrandonGrotesque-Light";
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 100px;
+      }
+
+      .cls-6 {
+        font-family: "Arial";
+      }
+
+      .cls-7 {
+        fill: #585858;
+      }
+
+      .cls-8 {
+        fill: #ffd200;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="2" y="8" width="336" height="336" rx="40" ry="40" class="cls-1"/>
+    <path d="M442.235,78.733 L374.531,151.199 L204.909,-7.535 L272.613,-80.002 L442.235,78.733 Z" class="cls-2"/>
+    <text transform="translate(56 203) scale(1.09 1.09)" class="cls-3"><tspan class="cls-4">&lt;code&gt;</tspan></text>
+    <text transform="translate(393 226) scale(1.43 1.43)" class="cls-5"><tspan class="cls-5"><tspan class="cls-6">my<tspan class="cls-7"> <tspan class="cls-8">p</tspan></tspan>ortfolio.</tspan></tspan></text>
+  </g>
+</svg>
